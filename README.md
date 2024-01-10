@@ -20,7 +20,7 @@
 
 ### Setup
 1. [Open Telegram Bot](https://t.me/SolidusAiTech_bot)
-3. Launch with correct settings
+2. Launch with correct settings
 
 ### About
 The program for mining tokens of our project is an innovative solution developed taking into account advanced blockchain technologies. This tool is intended for users who want to actively participate in the decentralized process of creating new tokens.
